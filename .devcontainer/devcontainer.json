@@ -1,0 +1,4 @@
+{
+    "name": "Time MCP Server Environment",
+    "postCreateCommand": "curl -LsSf https://astral.sh/uv/install.sh | sh"
+}
